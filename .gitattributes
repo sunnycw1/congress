@@ -1,3 +1,2 @@
-bills80-92.txt filter=lfs diff=lfs merge=lfs -text
-bills93-114.csv filter=lfs diff=lfs merge=lfs -text
-hein-bound/* filter=lfs diff=lfs merge=lfs -text
+US-Legislative-congressional_bills_18.1.csv filter=lfs diff=lfs merge=lfs -text
+hein-bound/speeches_043.txt filter=lfs diff=lfs merge=lfs -text
